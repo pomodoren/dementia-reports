@@ -1,4 +1,4 @@
-# Open Dementia Reports (ODR) - theory
+# Dementia Reports - thesis
 
 This is my master's thesis where I delve in depth in the psycho and bio markers of Dementia, checking whether different types of Dementia can be diagnosed using Machine Learning. Then on top of these, I add some explainability using the Shapley method for Machine Learning. This, in principle, is a good starting ground for standardizing the Dementia Reporting for different patients, and can later become a valuable tool for clinicians. 
 
